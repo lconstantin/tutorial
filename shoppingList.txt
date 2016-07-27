@@ -3,3 +3,5 @@ milk
 eggs
 
 soup
+
+rice
